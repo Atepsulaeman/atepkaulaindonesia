@@ -13,4 +13,3 @@ print('Maka Anak berangkat ke toko mengecek barang dan harganya cukup')
 print('Anak Mulai Berbelanja')
 print('Anak pulang kerumah, "dan Menyerahkan hasil belanja"')
 
-
