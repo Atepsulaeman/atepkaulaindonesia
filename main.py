@@ -7,7 +7,7 @@ Semua Sintaksis dasar bahasa Pemograman  diantaranya :
 # Sekuensial Tugas 1
 
 print('Ibu Memerintah,"Pergi Ke Tooko"')
-print('Anak Menjawab,"ok, pa yang harus saya Lakukan di Toko"')
+print('Anak Menjawab,"ok, apa yang harus saya Lakukan di Toko"')
 print ('Ibu Menjawab,"Tolong belikan satu botol susu,ditambah jika ada telur,belikan juga 6 butir telur,tapi jika susu tidak ada maka tidak jadi belanja"')
 print('Maka Anak berangkat ke toko mengecek barang dan harganya cukup')
 print('Anak Mulai Berbelanja')
